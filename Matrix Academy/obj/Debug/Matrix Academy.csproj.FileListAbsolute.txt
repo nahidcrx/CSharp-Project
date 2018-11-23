@@ -1,0 +1,103 @@
+C:\Users\potato\Desktop\Matrix Academy\Matrix Academy\bin\Debug\Matrix Academy.exe.config
+C:\Users\potato\Desktop\Matrix Academy\Matrix Academy\bin\Debug\Matrix Academy.exe
+C:\Users\potato\Desktop\Matrix Academy\Matrix Academy\bin\Debug\Matrix Academy.pdb
+C:\Users\potato\Desktop\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.Properties.Resources.resources
+C:\Users\potato\Desktop\Matrix Academy\Matrix Academy\obj\Debug\Matrix Academy.csproj.GenerateResource.Cache
+C:\Users\potato\Desktop\Matrix Academy\Matrix Academy\obj\Debug\Matrix Academy.exe
+C:\Users\potato\Desktop\Matrix Academy\Matrix Academy\obj\Debug\Matrix Academy.pdb
+C:\Users\potato\Desktop\Matrix Academy\Matrix Academy\obj\Debug\Matrix Academy.csprojResolveAssemblyReference.cache
+C:\Users\potato\Desktop\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.Forms.FormLoading.resources
+C:\Users\potato\Desktop\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.Forms.FormLogin.resources
+C:\Users\potato\Desktop\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.Forms.FormDashBoard.resources
+C:\Users\potato\Desktop\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.User_Control.UCLogOut.resources
+C:\Users\potato\Desktop\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.User_Control.UCSettings.resources
+C:\Users\potato\Desktop\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.User_Control.UCTeacher.resources
+C:\Users\potato\Desktop\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.User_Control.UCStudent.resources
+C:\Users\potato\Desktop\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.User_Control.UCDashBoard.resources
+C:\Users\potato\Desktop\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.User_Control.UCPayment.resources
+C:\Users\potato\Desktop\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.User_Control.UCAttendence.resources
+C:\Users\potato\Desktop\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.Forms.FormAddTeacher.resources
+C:\Users\potato\Desktop\Matrix Academy\Matrix Academy\bin\Debug\db_Matrix.mdf
+C:\Users\potato\Desktop\Matrix Academy\Matrix Academy\bin\Debug\db_Matrix_log.ldf
+C:\Users\potato\Desktop\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.Forms.FormChangePassword.resources
+C:\Users\potato\Desktop\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.User_Control.UCSetUp.resources
+C:\Users\potato\Desktop\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.Forms.s.resources
+C:\Users\potato\Desktop\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.Forms.FormStudent.resources
+F:\8 semester\c#\New folder\Matrix Academy\Matrix Academy\bin\Debug\Matrix Academy.exe.config
+F:\8 semester\c#\New folder\Matrix Academy\Matrix Academy\obj\Debug\Matrix Academy.exe
+F:\8 semester\c#\New folder\Matrix Academy\Matrix Academy\obj\Debug\Matrix Academy.pdb
+F:\8 semester\c#\New folder\Matrix Academy\Matrix Academy\bin\Debug\db_Matrix.mdf
+F:\8 semester\c#\New folder\Matrix Academy\Matrix Academy\bin\Debug\db_Matrix_log.ldf
+F:\8 semester\c#\New folder\Matrix Academy\Matrix Academy\bin\Debug\Matrix Academy.exe
+F:\8 semester\c#\New folder\Matrix Academy\Matrix Academy\bin\Debug\Matrix Academy.pdb
+F:\8 semester\c#\New folder\Matrix Academy\Matrix Academy\obj\Debug\Matrix Academy.csprojResolveAssemblyReference.cache
+F:\8 semester\c#\New folder\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.Forms.s.resources
+F:\8 semester\c#\New folder\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.Forms.FormAddTeacher.resources
+F:\8 semester\c#\New folder\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.Forms.FormChangePassword.resources
+F:\8 semester\c#\New folder\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.Forms.FormDashBoard.resources
+F:\8 semester\c#\New folder\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.Forms.FormLoading.resources
+F:\8 semester\c#\New folder\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.Forms.FormLogin.resources
+F:\8 semester\c#\New folder\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.Forms.FormStudent.resources
+F:\8 semester\c#\New folder\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.Properties.Resources.resources
+F:\8 semester\c#\New folder\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.User_Control.UCAttendence.resources
+F:\8 semester\c#\New folder\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.User_Control.UCDashBoard.resources
+F:\8 semester\c#\New folder\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.User_Control.UCLogOut.resources
+F:\8 semester\c#\New folder\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.User_Control.UCPayment.resources
+F:\8 semester\c#\New folder\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.User_Control.UCSettings.resources
+F:\8 semester\c#\New folder\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.User_Control.UCSetUp.resources
+F:\8 semester\c#\New folder\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.User_Control.UCStudent.resources
+F:\8 semester\c#\New folder\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.User_Control.UCTeacher.resources
+F:\8 semester\c#\New folder\Matrix Academy\Matrix Academy\obj\Debug\Matrix Academy.csproj.GenerateResource.Cache
+F:\8 semester\c#\New folder\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.Forms.FormTeacher.resources
+C:\Users\nahid\Music\New folder\Matrix Academy\Matrix Academy\bin\Debug\Matrix Academy.exe.config
+C:\Users\nahid\Music\New folder\Matrix Academy\Matrix Academy\obj\Debug\Matrix Academy.exe
+C:\Users\nahid\Music\New folder\Matrix Academy\Matrix Academy\obj\Debug\Matrix Academy.pdb
+C:\Users\nahid\Music\New folder\Matrix Academy\Matrix Academy\bin\Debug\db_Matrix.mdf
+C:\Users\nahid\Music\New folder\Matrix Academy\Matrix Academy\bin\Debug\db_Matrix_log.ldf
+C:\Users\nahid\Music\New folder\Matrix Academy\Matrix Academy\bin\Debug\Matrix Academy.exe
+C:\Users\nahid\Music\New folder\Matrix Academy\Matrix Academy\bin\Debug\Matrix Academy.pdb
+C:\Users\nahid\Music\New folder\Matrix Academy\Matrix Academy\obj\Debug\Matrix Academy.csprojResolveAssemblyReference.cache
+C:\Users\nahid\Music\New folder\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.Forms.s.resources
+C:\Users\nahid\Music\New folder\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.Forms.FormAddTeacher.resources
+C:\Users\nahid\Music\New folder\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.Forms.FormChangePassword.resources
+C:\Users\nahid\Music\New folder\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.Forms.FormDashBoard.resources
+C:\Users\nahid\Music\New folder\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.Forms.FormLoading.resources
+C:\Users\nahid\Music\New folder\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.Forms.FormLogin.resources
+C:\Users\nahid\Music\New folder\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.Forms.FormStudent.resources
+C:\Users\nahid\Music\New folder\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.Forms.FormTeacher.resources
+C:\Users\nahid\Music\New folder\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.Properties.Resources.resources
+C:\Users\nahid\Music\New folder\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.User_Control.UCAttendence.resources
+C:\Users\nahid\Music\New folder\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.User_Control.UCDashBoard.resources
+C:\Users\nahid\Music\New folder\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.User_Control.UCLogOut.resources
+C:\Users\nahid\Music\New folder\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.User_Control.UCPayment.resources
+C:\Users\nahid\Music\New folder\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.User_Control.UCSettings.resources
+C:\Users\nahid\Music\New folder\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.User_Control.UCSetUp.resources
+C:\Users\nahid\Music\New folder\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.User_Control.UCStudent.resources
+C:\Users\nahid\Music\New folder\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.User_Control.UCTeacher.resources
+C:\Users\nahid\Music\New folder\Matrix Academy\Matrix Academy\obj\Debug\Matrix Academy.csproj.GenerateResource.Cache
+C:\Users\nahid\Downloads\EDU\Semester 8\C#\Matrix Academy\Matrix Academy\bin\Debug\Matrix Academy.exe.config
+C:\Users\nahid\Downloads\EDU\Semester 8\C#\Matrix Academy\Matrix Academy\obj\Debug\Matrix Academy.exe
+C:\Users\nahid\Downloads\EDU\Semester 8\C#\Matrix Academy\Matrix Academy\obj\Debug\Matrix Academy.pdb
+C:\Users\nahid\Downloads\EDU\Semester 8\C#\Matrix Academy\Matrix Academy\bin\Debug\db_Matrix.mdf
+C:\Users\nahid\Downloads\EDU\Semester 8\C#\Matrix Academy\Matrix Academy\bin\Debug\db_Matrix_log.ldf
+C:\Users\nahid\Downloads\EDU\Semester 8\C#\Matrix Academy\Matrix Academy\bin\Debug\Matrix Academy.exe
+C:\Users\nahid\Downloads\EDU\Semester 8\C#\Matrix Academy\Matrix Academy\bin\Debug\Matrix Academy.pdb
+C:\Users\nahid\Downloads\EDU\Semester 8\C#\Matrix Academy\Matrix Academy\obj\Debug\Matrix Academy.csprojResolveAssemblyReference.cache
+C:\Users\nahid\Downloads\EDU\Semester 8\C#\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.Forms.s.resources
+C:\Users\nahid\Downloads\EDU\Semester 8\C#\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.Forms.FormAddTeacher.resources
+C:\Users\nahid\Downloads\EDU\Semester 8\C#\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.Forms.FormChangePassword.resources
+C:\Users\nahid\Downloads\EDU\Semester 8\C#\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.Forms.FormDashBoard.resources
+C:\Users\nahid\Downloads\EDU\Semester 8\C#\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.Forms.FormLoading.resources
+C:\Users\nahid\Downloads\EDU\Semester 8\C#\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.Forms.FormLogin.resources
+C:\Users\nahid\Downloads\EDU\Semester 8\C#\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.Forms.FormStudent.resources
+C:\Users\nahid\Downloads\EDU\Semester 8\C#\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.Forms.FormTeacher.resources
+C:\Users\nahid\Downloads\EDU\Semester 8\C#\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.Properties.Resources.resources
+C:\Users\nahid\Downloads\EDU\Semester 8\C#\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.User_Control.UCAttendence.resources
+C:\Users\nahid\Downloads\EDU\Semester 8\C#\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.User_Control.UCDashBoard.resources
+C:\Users\nahid\Downloads\EDU\Semester 8\C#\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.User_Control.UCLogOut.resources
+C:\Users\nahid\Downloads\EDU\Semester 8\C#\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.User_Control.UCPayment.resources
+C:\Users\nahid\Downloads\EDU\Semester 8\C#\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.User_Control.UCSettings.resources
+C:\Users\nahid\Downloads\EDU\Semester 8\C#\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.User_Control.UCSetUp.resources
+C:\Users\nahid\Downloads\EDU\Semester 8\C#\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.User_Control.UCStudent.resources
+C:\Users\nahid\Downloads\EDU\Semester 8\C#\Matrix Academy\Matrix Academy\obj\Debug\Matrix_Academy.User_Control.UCTeacher.resources
+C:\Users\nahid\Downloads\EDU\Semester 8\C#\Matrix Academy\Matrix Academy\obj\Debug\Matrix Academy.csproj.GenerateResource.Cache
